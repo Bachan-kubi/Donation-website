@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header part sytling */
+.header-part{
+    background-image: url(images/dark-banner-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    /* width: 100vw; */
+}
+.title-text{
+    color: yellowgreen;
+    text-align: center;
+    padding: 250px 0;
+}
+.title-text h1{
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+.title-text p{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    color: yellowgreen;
+}
+a{
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    background-color: yellowgreen;
+    padding: 10px 30px;
+    font-size: 25px;
+}
+/* donation section style */
+.donation{
+    margin: 50px 300px;
+}
+.donation-text{
+    text-align: center;
+    margin-bottom: 20px;
+    color: yellowgreen;
+}
+.donation-text h1{
+    font-size: 35px;
+    font-weight: 1200;
+}
+.donation-text p{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+.donation-flex{
+    display: flex;
+    
+}
+.part-width{
+    width: 20%;
+    background-color: rgb(241, 241, 228);
+    padding: 20px;
+    margin: 5px;
+    text-align: center;
+    color: yellowgreen;
+    font-weight: 600;
+    font-size: 25px;
+    border-radius: 5px;
+}
+.part-width3{
+    background-color: rgb(241, 241, 228);
+    border: 2px solid yellowgreen;
+    text-align: center;
+    font-weight: 600;
+    font-size: 25px;
+    padding: 20px;
+    margin: 5px;
+    color: yellowgreen;
+    border-radius: 5px;
+}
+/* donation section style end */
