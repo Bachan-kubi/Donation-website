@@ -139,4 +139,24 @@ button{
     border: 1px solid yellow;
     text-transform: uppercase;
     border-radius: 5px;
+    cursor: pointer;
+}
+/* last part style */
+.last-section{
+    margin: 0 300px;
+}
+.last-flex{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.half-width{
+    width: 50%;
+    padding: 15px;
+    margin: 10px;
+}
+.half-width img{
+    width: 100%;
+    border: 1px solid gray;
+    box-shadow: 5px 10px 12px gray;
+    border-radius: 5px;
 }
