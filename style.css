@@ -100,3 +100,20 @@ input{
     font-weight: 600;
 }
 /* donation section style end */
+/* how it works starts */
+.how-iw{
+    margin: 20px 300px;
+    text-align: center;
+}
+.working-flex{
+    display: flex;
+}
+.working-flex img{
+    width: 50%;
+}
+.flex{
+    width: 33.33%;
+    padding: 10px;
+    margin: 5px;
+    background-color: yellowgreen;
+}
