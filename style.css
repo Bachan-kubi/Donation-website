@@ -160,3 +160,51 @@ button{
     box-shadow: 5px 10px 12px gray;
     border-radius: 5px;
 }
+.half-width h1, p{
+    color: yellowgreen;
+}
+.half-width h1{
+    font-size: 25px;
+}
+/* form section style */
+.form{
+    margin: 40px 300px;
+    text-align: center;
+}
+.form h1{
+    color: yellowgreen;
+    font-size: 30px;
+    font-weight: 900;
+}
+.form-ctr{
+    display: flex;
+    margin: 10px 150px;
+    padding: 20px 100px;
+    background-color: yellowgreen;
+    
+}
+.email{
+    width: 60%;
+    padding: 10px;
+    border-radius: 4px;
+    color: yellowgreen;
+}
+.sub-btn{
+    width: 40%;
+    padding: 10px;
+    background-color: yellowgreen;
+    color: white;
+    text-align: center;
+    margin-left: -10px;
+}
+footer{
+    background-color: yellowgreen;
+    text-align: center;
+    padding: 30px;
+    color: white;
+    margin-top: 50px;
+}
+footer p{
+    color: white;
+    font-size: 12px;
+}
