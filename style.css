@@ -35,8 +35,9 @@ a{
     color: white;
     border-radius: 5px;
     background-color: yellowgreen;
-    padding: 10px 30px;
+    padding: 10px 25px;
     font-size: 25px;
+    font-weight: 600;
 }
 /* donation section style */
 .donation{
